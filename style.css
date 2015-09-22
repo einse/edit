@@ -1,0 +1,40 @@
+@import url(font-arimo/font-arimo.css);
+
+body {
+  overflow-y:hidden;
+  background-color:white;
+  font-size:small;
+}
+
+#wrapper {
+  height:96vh;
+  width:6cm;
+  font-family:Arimo, sans;
+}
+
+#container {
+  height:100%;
+  display:flex;
+  flex-direction:column;
+  flex-wrap:wrap;
+  align-items:flex-start;
+  justify-content:flex-start;
+}
+
+.paragraph {
+  min-height:1.2rem;
+  width:5cm;
+  float:left;
+  background-color:white;
+  padding:0.5rem;
+  word-break:keep-all;
+}
+
+.paragraph:focus {
+  background-color:skyblue;
+}
+
+.b {
+  font-weight:bold;
+  font-size:1.1rem;
+}

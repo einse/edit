@@ -10,4 +10,4 @@ See the LICENCE file and the code files.
 
 ## Test string
 
-Just a test.
+Just a test. And another test.

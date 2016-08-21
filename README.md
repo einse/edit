@@ -4,6 +4,6 @@
 
 Text editor with horizontal scrolling.
 
-## Licence
+## License
 
-See the LICENCE file and the code files.
+MIT

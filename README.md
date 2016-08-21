@@ -1,9 +1,3 @@
-# Edit
+# edit
 
-## Description
-
-Text editor with horizontal scrolling.
-
-## License
-
-MIT
+A text editor with horizontal scrolling.
